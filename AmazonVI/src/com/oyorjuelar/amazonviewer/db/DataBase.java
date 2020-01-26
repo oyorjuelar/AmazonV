@@ -1,4 +1,4 @@
-package com.anncode.amazonviewer.db;
+package com.oyorjuelar.amazonviewer.db;
 
 public class DataBase {
     public static final String URL              = "jdbc:mysql://localhost:3306/";

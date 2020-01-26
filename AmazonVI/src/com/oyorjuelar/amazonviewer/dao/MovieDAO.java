@@ -1,12 +1,12 @@
-package com.anncode.amazonviewer.dao;
+package com.oyorjuelar.amazonviewer.dao;
 
 import java.sql.*;
 import java.util.ArrayList;
-import static com.anncode.amazonviewer.db.DataBase.*;
+import static com.oyorjuelar.amazonviewer.db.DataBase.*;
 
 
-import com.anncode.amazonviewer.db.DbConecction;
-import com.anncode.amazonviewer.model.Movie;
+import com.oyorjuelar.amazonviewer.db.DbConecction;
+import com.oyorjuelar.amazonviewer.model.Movie;
 
 public interface MovieDAO extends DbConecction {
 

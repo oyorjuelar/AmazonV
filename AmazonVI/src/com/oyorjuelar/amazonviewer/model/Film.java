@@ -1,4 +1,4 @@
-package com.anncode.amazonviewer.model;
+package com.oyorjuelar.amazonviewer.model;
 
 /**
  * <h1>Film</h1>

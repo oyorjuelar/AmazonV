@@ -1,13 +1,10 @@
-package com.anncode.amazonviewer;
+package com.oyorjuelar.amazonviewer;
 
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
-import java.util.Scanner;
 
-import com.anncode.amazonviewer.model.*;
+import com.oyorjuelar.amazonviewer.model.*;
 //import com.anncode.makereport.Report;
-import com.anncode.util.AmazonUtil;
+import com.oyorjuelar.util.AmazonUtil;
 
 /**
  * <h1>AmazonViewer</h1>

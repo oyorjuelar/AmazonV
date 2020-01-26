@@ -1,8 +1,7 @@
-package com.anncode.amazonviewer.model;
+package com.oyorjuelar.amazonviewer.model;
 
-import com.anncode.util.AmazonUtil;
+import com.oyorjuelar.util.AmazonUtil;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.anncode.util;
+package com.oyorjuelar.util;
 
 import java.util.Scanner;
 

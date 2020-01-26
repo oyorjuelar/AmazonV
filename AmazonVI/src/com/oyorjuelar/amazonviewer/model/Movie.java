@@ -1,8 +1,7 @@
-package com.anncode.amazonviewer.model;
+package com.oyorjuelar.amazonviewer.model;
 
-import com.anncode.amazonviewer.dao.MovieDAO;
+import com.oyorjuelar.amazonviewer.dao.MovieDAO;
 
-import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Date;
 

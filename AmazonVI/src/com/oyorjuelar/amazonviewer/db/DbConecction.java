@@ -1,10 +1,10 @@
-package com.anncode.amazonviewer.db;
+package com.oyorjuelar.amazonviewer.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import static com.anncode.amazonviewer.db.DataBase.*;
+import static com.oyorjuelar.amazonviewer.db.DataBase.*;
 
 public interface DbConecction {
 

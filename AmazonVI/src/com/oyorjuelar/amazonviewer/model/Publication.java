@@ -1,4 +1,4 @@
-package com.anncode.amazonviewer.model;
+package com.oyorjuelar.amazonviewer.model;
 
 import java.util.Date;
 
