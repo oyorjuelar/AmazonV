@@ -27,6 +27,7 @@ import com.anncode.util.AmazonUtil;
 public class Main {
     public static void main(String[] args) {
         showMenu();
+
     }
 
     public static void showMenu() {
@@ -86,8 +87,9 @@ public class Main {
         }while(exit != 0);
     }
 
-    static ArrayList<Movie> movies = Movie.makeMoviesList();
+    static ArrayList<Movie> movies = new ArrayList<>();
     public static void showMovies() {
+        movies = Movie.makeMoviesList();
         int exit = 1;
 
         do {
